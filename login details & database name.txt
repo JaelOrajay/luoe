@@ -1,0 +1,22 @@
+*Database Name: luoe*
+
+*http://localhost/LUOE/*
+
+*Admin Login Details*
+
+Email    : ren@gmail.com
+Password : rensantos
+
+*Examinee/Student Login Details*
+
+Email   : eunicejael@gmail.com 
+Password: jaelorajay
+
+Email   : jonalylaserna8@gmail.com
+Password: jonaly
+
+Email   : marryjoicellarena02@gmail.com
+Password: vimbo
+
+Email   : andreatorrejos32@gmail.com
+Password: andeng

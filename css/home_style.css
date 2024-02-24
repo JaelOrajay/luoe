@@ -1,0 +1,130 @@
+/*HOME*/
+.home-section{
+
+    background:#eee;
+    
+  }
+  
+  .home-section .luoe4{
+    background:#0A2558;
+    margin: auto;
+    width: 95%;
+    height: 20%;
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 22px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    box-shadow: 0 0 .3rem rgba(0,0,0,.3);
+    font-weight: 600;
+    color: #fff;;
+    margin-bottom: 3%;
+  }
+  
+  .home-section .luoe img{
+    padding-bottom: 30px;
+  }
+  
+  .home-section .luoe5{
+    background:#0A2558;
+    margin: auto;
+    width: 95%;
+    height: 20%;
+    padding: 10px;
+    padding-top: 30px;
+    font-size: 15px;
+    text-align: justify;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 5%;
+    box-shadow: 0 0 .3rem rgba(0,0,0,.3);
+    font-weight: 600;
+    color: #fff;
+  }
+  .home-section .luoe2{
+    background:#0bc543;
+    margin: auto;
+    width: 95%;
+    height: 20%;
+    padding: 10px;
+    padding-top: 30px;
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 110px;
+    padding-bottom: 115px;
+    box-shadow: 0 0 .3rem rgba(0,0,0,.3);
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+  }
+  
+  .home-section .luoe2 img{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    padding-bottom: 20px;
+  }
+  
+  
+  .home-section .benefit1{
+    background:#fff;
+    width:100%;
+    font-size: 22px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 0 0 .3rem rgba(0,0,0,.3);
+    font-weight: 600;
+  }
+  
+  .home-section .box-container{
+    margin-top: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding:2rem 0;
+  
+  }
+  
+  .home-section .box-container .box2{
+    background:#fff;
+    margin:2rem;
+    padding:1rem;
+    width:37rem;
+    height: 30rem;
+    text-align: center;
+    box-shadow: 0 0 .3rem rgba(0,0,0,.3);
+  }
+  
+  .home-section .box-container .box2 i{
+    font-size: 4rem;
+    padding:1rem;
+    color: var(--header-color, rgb(32, 4, 97));
+  }
+  
+  .home-section .box-container .box2 h3{
+    font-size: 20px;
+    font-weight: bold;
+    color:rgb(29, 29, 29);
+  }
+  
+  .home-section .box-container .box2 p{
+    font-size: 16px;
+    color:rgb(39, 39, 39);
+    padding:1rem;
+    text-align: justify;
+  }
+  
+  
+  
+  

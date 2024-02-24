@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+/*Course*/
+
+.home-section table{
+  justify-content: center;
+  align-items: center;
+  border: 1px solid rgb(11, 24, 97);
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+.home-section th{
+  background-color: #0A2558;
+  color: #fff;
+text-align: center;
+;
+}
+
+.home-section th, td{
+  padding: .5rem;
+  border: 1px solid rgb(11, 24, 97);
+  border-collapse: collapse;
+}
+
+
+.home-section tbody{
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+}
+
+
+@media screen and (max-width: 600px){
+  
+
+  .home-section td:first-child{
+    background-color: rgb(247, 247, 247);
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+
+}
+.home-section .box-container .box1 h3{
+  font-size: 20px;
+  color:rgb(29, 29, 29);
+}
+
+
+
